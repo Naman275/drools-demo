@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "status": "pass",
+    "total": 100
+  },
+  "personList": [
+    {
+      "name": "naman",
+      "marks": "100"
+    },
+    {
+      "name": "ranjit",
+      "marks": "99"
+    }
+  ]
+}

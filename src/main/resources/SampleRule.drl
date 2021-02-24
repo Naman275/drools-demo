@@ -1,0 +1,10 @@
+import com.drools.demo.dto.*;
+import java.util.*;
+import java.lang.*;
+
+rule "ALl student marks >90"
+when
+    $a: GenericDto(personList.size()>0)
+    forall (PersonDto(marks>90) from $a.personList)
+then
+end

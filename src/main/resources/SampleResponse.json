@@ -1,0 +1,26 @@
+{
+  "genericDto": {
+    "fields": {
+      "status": "pass",
+      "total": 100
+    },
+    "personList": [
+      {
+        "name": "naman",
+        "marks": 100
+      },
+      {
+        "name": "ranjit",
+        "marks": 99
+      }
+    ]
+  },
+  "rulesExecuted": {
+    "ALl student marks >90": true
+  },
+  "totalRules": 1,
+  "totalPassed": 1,
+  "overallStatus": true,
+  "createdAt": "2021-02-24T08:18:36.670+0000",
+  "updatedAt": "2021-02-24T08:18:36.670+0000"
+}
